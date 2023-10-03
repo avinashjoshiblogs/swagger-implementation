@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwaggerImplementation", "SwaggerImplementation.csproj", "{7407BB2B-FCB8-41C4-A5E9-723C76C14491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "..\Calculator\Calculator.csproj", "{48ACE71E-AD76-4B92-BF78-E65E50A2B9CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7407BB2B-FCB8-41C4-A5E9-723C76C14491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7407BB2B-FCB8-41C4-A5E9-723C76C14491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7407BB2B-FCB8-41C4-A5E9-723C76C14491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7407BB2B-FCB8-41C4-A5E9-723C76C14491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48ACE71E-AD76-4B92-BF78-E65E50A2B9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48ACE71E-AD76-4B92-BF78-E65E50A2B9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48ACE71E-AD76-4B92-BF78-E65E50A2B9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48ACE71E-AD76-4B92-BF78-E65E50A2B9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51E55A29-B241-4D03-AF16-452BF3765320}
+	EndGlobalSection
+EndGlobal

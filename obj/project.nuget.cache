@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sj9MmtwgTHvzQNPNSeRntxVpR55eyf9o31W2a8dwr/mEGi253LAMN8RWNksLR4kEHCEWKMS9j9i6MMsUN1sQdA==",
+  "success": true,
+  "projectFilePath": "E:\\My Work\\Practicals\\SwaggerImplementation\\SwaggerImplementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avinash\\.nuget\\packages\\calculator\\1.0.0\\calculator.1.0.0.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Avinash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
